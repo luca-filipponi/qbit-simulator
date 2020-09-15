@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="qbit.OpsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-09-03T10:23:33" hostname="C02C40S8MD6R" time="0.002">
+  <properties/>
+  <testcase name="readQbitInSuperPositionEraseIt" classname="qbit.OpsTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
